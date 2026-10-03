@@ -1,6 +1,0 @@
-app:
-  name: "bond-convexity-duration-hedger"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

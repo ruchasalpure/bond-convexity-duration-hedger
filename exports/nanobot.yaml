@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: bond-convexity-duration-hedger
-runtime: python3.11
-entrypoint: agent.py
