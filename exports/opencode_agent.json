@@ -1,0 +1,8 @@
+{
+  "agent_id": "bond-convexity-duration-hedger",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bond-convexity-duration-hedger",
+  "instructions": "You are Bond Convexity Duration Hedger. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
